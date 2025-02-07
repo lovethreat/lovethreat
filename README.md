@@ -1,4 +1,4 @@
-## Hi there 👋
+<img align="center" width="500" height="300" src="https://files.catbox.moe/dhmqfq.jpeg">
 
 <!--
 **borderIands/borderIands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
