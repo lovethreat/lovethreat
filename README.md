@@ -1,4 +1,4 @@
-<img align="center" width="500" height="300" src="https://files.catbox.moe/pykonq.webp">
+<img align="center" width="800" height="500" src="https://files.catbox.moe/pykonq.webp">
 
 <!--
 **borderIands/borderIands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
