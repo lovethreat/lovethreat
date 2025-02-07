@@ -1,3 +1,7 @@
+<div align="center">
+ 
+![](https://komarev.com/ghpvc/?username=bordIands&color=lightgray&label=.ᐟ.ᐟ)
+
 <img align="center" width="800" height="500" src="https://files.catbox.moe/pykonq.webp">
 
 <div align="center"> 
