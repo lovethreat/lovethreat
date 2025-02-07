@@ -1,5 +1,8 @@
 <img align="center" width="800" height="500" src="https://files.catbox.moe/pykonq.webp">
 
+<div align="center"> 
+ 
+<sub>【 [**ATA**](https://borderiands.atabook.org/)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/saatorus/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@borderIands) 】</sub>
 <!--
 **borderIands/borderIands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
