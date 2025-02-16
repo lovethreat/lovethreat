@@ -6,7 +6,7 @@
 
 <div align="center"> 
  
-<sub>【 [**ATA**](https://borderiands.atabook.org/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@borderIands) 】</sub>
+<sub>【 [**ATA**](https://borderiands.atabook.org/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@borderIands)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/saatorus) 】</sub>
 <!--
 **borderIands/borderIands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
