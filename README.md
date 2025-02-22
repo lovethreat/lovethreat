@@ -1,13 +1,12 @@
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=bordIands&color=pink&label=.ᐟ.ᐟ)
+![](https://komarev.com/ghpvc/?username=bordIands&color=ff69b4&label=.ᐟ.ᐟ)
 
-<img align="center" width="600" height="300" src="https://files.catbox.moe/qm3mu4.png">
+<img align="center" width="265" height="420" src="https://files.catbox.moe/qm3mu4.png">
 
 <div align="center"> 
  
 <sub>【 [**ATA**](https://borderiands.atabook.org/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@borderIands)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/saatorus) 】</sub>
-<!--
 **borderIands/borderIands** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
