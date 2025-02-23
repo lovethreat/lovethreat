@@ -6,4 +6,4 @@
 
 <div align="center"> 
  
-<sub>【 [**ATA**](https://borderiands.atabook.org/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@lovethreat)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/saatorus) 】</sub>
+<sub>【 [**ATA**](https://l0vethreat.atabook.org/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@lovethreat)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/saatorus) 】</sub>
