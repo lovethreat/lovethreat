@@ -1,8 +1,8 @@
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=bordIands&color=blueviolet&label=.ᐟ.ᐟ)
+![](https://komarev.com/ghpvc/?username=bordIands&color=lightgrey&label=.ᐟ.ᐟ)
 
-<img align="center" width="265" height="420" src="https://files.catbox.moe/sy2zk7.png">
+<img align="center" width="270" height="300" src="https://files.catbox.moe/3r3wpt.png">
 
 <div align="center"> 
  
