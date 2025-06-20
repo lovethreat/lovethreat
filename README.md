@@ -2,7 +2,7 @@
  
 ![](https://komarev.com/ghpvc/?username=bordIands&color=lightgrey&label=.ᐟ.ᐟ)
 
-<img align="center" width="240" height="300" src="https://files.catbox.moe/m4p200.png">
+<img align="center" width="300" height="400" src="https://files.catbox.moe/cs6dit.png">
 
 <div align="center"> 
 
