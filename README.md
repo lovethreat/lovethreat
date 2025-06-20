@@ -6,4 +6,4 @@
 
 <div align="center"> 
 
-<sub>【 [**ATA**](https://inumaki.atabook.org/)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@lovethreat)⠀⠀⌣⠀⠀rentry is wip 】</sub>
+<sub>【 [**ATA**](https://inumaki.atabook.org/)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/lovethreat)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@lovethreat) 】</sub>
