@@ -1,6 +1,5 @@
 <div align="center">
  
-![](https://komarev.com/ghpvc/?username=bordIands&color=lightgrey&label=.ᐟ.ᐟ)
 
 <img align="center" width="300" height="300" src="https://files.catbox.moe/sotcbc.png">
 
