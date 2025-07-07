@@ -2,8 +2,8 @@
  
 ![](https://komarev.com/ghpvc/?username=bordIands&color=lightgrey&label=.ᐟ.ᐟ)
 
-<img align="center" width="500" height="450" src="https://files.catbox.moe/ht13cc.png">
+<img align="center" width="300" height="300" src="https://files.catbox.moe/sotcbc.png">
 
 <div align="center"> 
 
-<sub>【 [**ATA**](https://inumaki.atabook.org/)⠀⠀⌣⠀⠀[**RENTRY**](https://rentry.co/lovethreat)⠀⠀⌣⠀⠀[**STRAWPG**](https://lovethreat.straw.page)⠀⠀⌣⠀⠀[**PRNS**](https://pronouns.cc/@lovethreat) 】</sub>
+<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀[**rentry**](https://rentry.co/lovethreat)⠀⠀[**straw**](https://lovethreat.straw.page)⠀⠀[**prns**](https://pronouns.cc/@lovethreat)</sub>
