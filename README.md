@@ -5,4 +5,4 @@
 
 <div align="center"> 
 
-<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀[**straw**](https://lovethreat.straw.page)⠀⠀rmking rentry</sub>
+<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀rmking my sites I SWEARRR</sub>
