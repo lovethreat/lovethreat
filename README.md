@@ -5,4 +5,4 @@
 
 <div align="center"> 
 
-<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀rmking my sites I SWEARRR</sub>
+<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀[**rentry**](https://rentry.co/cutegirl47)</sub>
