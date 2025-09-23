@@ -5,4 +5,4 @@
 
 <div align="center"> 
 
-<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀rmking rentry..again </sub>
+<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀[**rentry**](https://rentry.co/westjuniortiger) </sub>
