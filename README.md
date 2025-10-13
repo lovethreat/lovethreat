@@ -1,7 +1,7 @@
 <div align="center">
  
 
-<img align="center" width="375" height="450" src="https://files.catbox.moe/qg1cff.png">
+<img align="center" width="300" height="400" src="https://files.catbox.moe/qg1cff.png">
 
 <div align="center"> 
 
