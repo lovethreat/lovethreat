@@ -5,4 +5,4 @@
 
 <div align="center"> 
 
-<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀[**rentry**](https://rentry.co/cutegojo)⠀⠀[**listo**](https://listography.com/cherrycloud)⠀⠀[**match**](https://rentry.co/cutestkitties)</sub>
+<sub> [**ata**](https://inumaki.atabook.org/)⠀⠀[**rentry**](https://rentry.co/cutegojo)⠀⠀[**info**](https://rentry.co/catoruu)⠀⠀[**listo**](https://listography.com/cherrycloud)⠀⠀[**match**](https://rentry.co/cutestkitties)</sub>
