@@ -9,4 +9,4 @@
 <img src="https://files.catbox.moe/ul0lh5.webp"> 
 <div align="center">
 
-<sub> <p align="center"> [@arrowhazard](https://github.com/arrowhazard) #brofriend #straight </p> <sub>
+<sub> <p align="center"> [@arrowhazard](https://github.com/arrowhazard) #brofriend #straight ❤‍🩹❤‍🩹❤‍🩹 </p> <sub>
