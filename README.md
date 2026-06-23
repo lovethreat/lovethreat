@@ -7,4 +7,6 @@
 <div align="center"> 
 
 <img src="https://files.catbox.moe/ul0lh5.webp"> 
- <img src="https://files.catbox.moe/cza1ca.webp">  <img src="https://files.catbox.moe/npo54y.webp"> <img src="https://files.catbox.moe/8zeqcf.webp">   <img src="https://files.catbox.moe/hwniux.png">
+<div align="center">
+
+<sub> <p align="center"> [@arrowhazard](https://github.com/arrowhazard) #brofriend #straight </p> <sub>
