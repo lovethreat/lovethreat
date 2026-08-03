@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width=260 height=180 src="https://files.catbox.moe/k7huq0.jpg">
+<img width=220 height=300 src="https://files.catbox.moe/bf1gal.png">
 
 <sub>[**main**](https://fluffle.cc/lovethreat)⠀⠀[**ata**](https://inumaki.atabook.org/)⠀⠀[**listo**](https://listography.com/cherrycloud)</sub> 
 
