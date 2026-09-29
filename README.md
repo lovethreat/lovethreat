@@ -1,7 +1,7 @@
 <div align="center">
 
-<img width=400 height=300 src="https://files.catbox.moe/ckn60h.png">
+echo of a star
 
-<sub>[**main**](https://fluffle.cc/lovethreat)⠀⠀[**ata**](https://inumaki.atabook.org/)⠀⠀[**listo**](https://listography.com/cherrycloud)⠀⠀[**match1**](https://fluffle.cc/weathersui)⠀⠀[**match2**](https://fluffle.cc/windbreaker)</sub> 
+<sub>[**main**](https://fluffle.cc/lovethreat)⠀⠀[**ata**](https://inumaki.atabook.org/)⠀⠀[**listo**](https://listography.com/cherrycloud)⠀⠀[**++**](https://fluffle.cc/lexis)</sub> 
 
 <div align="center">
