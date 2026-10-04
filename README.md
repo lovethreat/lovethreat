@@ -1,7 +1,6 @@
 <div align="center">
 ⠀⊹ ࣪ ˖ ໒꒱ ~
 
-  romeo to cinderella
 
 <sub>[**main**](https://fluffle.cc/lovethreat)⠀⠀[**ata**](https://inumaki.atabook.org/)⠀⠀[**listo**](https://listography.com/cherrycloud)⠀⠀[**++**](https://fluffle.cc/lexis)</sub> 
 
